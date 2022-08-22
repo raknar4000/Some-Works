@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ragnar Lall</h1>
 <h3 align="center">Learning developer</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/ff/72/faff728831ee3380772a8b12685643a8.png">
+<img align="center" alt="Coding" width="1200" height="100" src="https://i.pinimg.com/originals/fa/ff/72/faff728831ee3380772a8b12685643a8.png">
 
 
 
