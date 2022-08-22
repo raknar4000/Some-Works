@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Ragnar Lall</h1>
 <h3 align="center">Learning developer</h3>
-(https://i.pinimg.com/originals/fa/ff/72/faff728831ee3380772a8b12685643a8.png)
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/ff/72/faff728831ee3380772a8b12685643a8.png">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raknar4000&label=Profile%20views&color=0e75b6&style=flat" alt="raknar4000" /> </p>
